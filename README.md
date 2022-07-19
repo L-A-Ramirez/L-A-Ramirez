@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **networks, English, web applications and front end.**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.canva.com/design/DAE95c-pdLU/view">Curriculum</a>
+- 👨‍💻 All my projects are available in my repository.
 
 - 📫 How to reach me **LucasAlejandro4@outlook.com**
 
-- 📄 Get to know me through my <a href="https://www.canva.com/design/DAE95c-pdLU/view">Resume</a>resume
+- 📄 Get to know me through my <a href="https://www.canva.com/design/DAE95c-pdLU/view">Resumen</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
